@@ -30,6 +30,7 @@ class EventsIndex extends Component {
               <th>Title</th>
               <th>Body</th>
             </tr>
+            <p>git test</p>
           </thead>
 
           <tbody>
